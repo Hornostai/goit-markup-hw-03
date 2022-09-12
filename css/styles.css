@@ -143,9 +143,6 @@ margin-right: 50px;
     text-transform: uppercase;
     letter-spacing: 0.06em;
     margin-bottom: 30px;
-    margin-left: auto;
-    margin-right: auto;
-
 }
 .section-box{
     padding-bottom: 200px;
@@ -283,8 +280,8 @@ margin-right: 50px;
 .subject-container-text{
     padding-top:  20px;
     padding-right: 24px;
-    padding-left: 20px;
-    padding-bottom: 24px;
+    padding-left: 24px;
+    padding-bottom: 20px;
     margin-bottom: 4px;
     border: 1px solid #EEEEEE;
 }
@@ -313,7 +310,7 @@ margin-right: 50px;
     text-decoration: none;
     letter-spacing: 0.03em;
     text-transform: capitalize;
-display: flex;
+    display: flex;
     align-items: center;
     margin-bottom: 20px;
     
